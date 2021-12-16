@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor,eventbrite
-online,online,NA,NA,NA,"January 11 - 13, 2022",9:00 - 13:00 CET,2022-01-11T00:00:00Z,2022-01-13T00:00:00Z,"Johan Hidding, Djura Smits","Cunliang Geng, Francesco Nattino, Ou Ku, Lourens Veen",ds,ds-parallel,Software Carpentry with Python,2022-01-11-ds-parallel,NA,228232127437
+online,online,NA,NA,NA,"January 11 - 13, 2022",9:00 - 13:00 CET,2022-01-11T00:00:00Z,2022-01-13T00:00:00Z,"Johan Hidding, Djura Smits","Cunliang Geng, Francesco Nattino, Ou Ku, Lourens Veen",ds,ds-parallel,Introduction to Parallel Programming with Python,2022-01-11-ds-parallel,NA,228232127437
