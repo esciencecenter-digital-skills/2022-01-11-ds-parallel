@@ -78,7 +78,7 @@ It looks like you are setting up a website for a workshop but you haven't specif
 {% comment %}
 Read correct lesson meta from esciencecenter-digital-skills/workshop-metadata
 {% endcomment %}
-{% capture lesson_meta %}https://raw.githubusercontent.com/esciencecenter-digital-skills/workshop-metadata/main/{{info.curriculum}}{% endcapture %}
+{% capture lesson_meta %}https://raw.githubusercontent.com/esciencecenter-digital-skills/workshop-metadata/add-ds-parallel-data/{{info.curriculum}}{% endcapture %}
 
 
 {% comment %}
